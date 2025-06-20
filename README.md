@@ -6,10 +6,10 @@ Este repositório reúne uma **API RESTful** e uma **aplicação de terminal**, 
 
 ## 📂 Estrutura do Projeto
 
-* \`\`
+* 
   Gerencia dados de usuários, alimentos, atividades físicas e integra com APIs externas para informações nutricionais e cálculo de gasto calórico.
 
-* \`\`
+* 
   Aplicação de terminal para interação prática com a API.
 
 ---
